@@ -1,0 +1,11 @@
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.SuggestedBindingRedirects.cache
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+D:\COLLECTIONSSS\PS TEST\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
